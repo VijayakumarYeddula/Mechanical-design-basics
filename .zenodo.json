@@ -1,0 +1,33 @@
+{
+  "title": "Mechanical Design Basics: From Requirement to Release - open course files",
+  "upload_type": "dataset",
+  "description": "<p>Open learner files of the free YouTube course <em>Mechanical Design Basics: From Requirement to Release</em> (24 episodes in three parts: Part 1 Define &amp; Make It Strong, Ep 00-08; Part 2 Drawings, Tolerances &amp; GD&amp;T, Ep 09-16; Part 3 Make It Buildable &amp; Release It, Ep 17-23). The course follows a fictional belt-driven actuator (ACT-100) and its sheet-metal motor bracket (ACT-103) from requirement to release; learners practise each step on their own shelf bracket.</p><p>Contents: a worksheet and an answer key for every episode (PDF); reference cards; engineering drawings and planted-error drawing exercises (PDF); a DXF flat pattern; spreadsheet templates and calculators (XLSX, CSV; Excel, LibreOffice or Google Sheets); STEP models of the ACT-103 bracket at Rev A and Rev B (FreeCAD opens them); and a Python generator (standard library only) that computes every number used in the course, with self-checks, plus a shelf-bracket exercise generator.</p><p>Fictional company, synthetic data. Standards are cited by number only; no standard text is reproduced and no endorsement is implied. Educational material - not for production, manufacture or legal use; verify with current standards and your supplier. Content CC BY 4.0; source code (*.py) MIT.</p>",
+  "creators": [
+    {
+      "name": "Yeddula, Vijayakumar",
+      "orcid": "0009-0008-3998-500X"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "publication_date": "2026-11-19",
+  "language": "eng",
+  "keywords": [
+    "mechanical design",
+    "engineering education",
+    "machine design",
+    "sheet metal",
+    "engineering drawings",
+    "tolerances",
+    "GD&T",
+    "design for manufacturing",
+    "design for assembly",
+    "change control",
+    "worksheets",
+    "answer keys",
+    "spreadsheets",
+    "STEP models",
+    "open educational resources"
+  ]
+}
