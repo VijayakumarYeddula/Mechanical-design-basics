@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "Mechanical Design Basics: From Requirement to Release - open course files"
+type: dataset
+authors:
+  - given-names: "Vijayakumar"
+    family-names: "Yeddula"
+    orcid: "https://orcid.org/0009-0008-3998-500X"
+abstract: >-
+  Open learner files of a free YouTube course on mechanical design basics (24 episodes in
+  three parts: define and make it strong; drawings, tolerances and GD&T; make it buildable
+  and release it). The course follows a fictional belt-driven actuator (ACT-100) and its
+  sheet-metal motor bracket (ACT-103) from requirement to release. The release contains,
+  for every episode, a worksheet and an answer key (PDF); reference cards; engineering
+  drawings and planted-error drawing exercises (PDF); a DXF flat pattern; spreadsheet
+  templates and calculators (XLSX, CSV); STEP models of the bracket at Rev A and Rev B;
+  and a Python generator that computes every number used in the course, with self-checks,
+  plus a shelf-bracket exercise generator. Fictional company, synthetic data.
+  Educational material - verify with current standards and your supplier.
+license: CC-BY-4.0
+version: 1.0.0
+date-released: "2026-11-19"
+keywords:
+  - mechanical design
+  - engineering education
+  - machine design
+  - sheet metal
+  - engineering drawings
+  - tolerances
+  - GD&T
+  - design for manufacturing
+  - design for assembly
+  - change control
+  - worksheets
+  - answer keys
+  - spreadsheets
+  - STEP models
+  - open educational resources

@@ -1,0 +1,5 @@
+FULL (README, course page, Ep 00 closing card, YouTube "About"):
+Disclaimer and limitation of liability. This course and its files are provided for general education only, "as is", without warranty of any kind. They are not professional engineering advice and do not replace the judgement of a qualified engineer, the applicable standards, codes and laws, or the manufacturer's data. The product, companies, parts and data are fictional; any resemblance to real products or companies is coincidental. Standards are referred to by number only; no standard text is reproduced, so always use the current official edition. Brand and product names belong to their owners and are used only for identification; no affiliation or endorsement is implied. To the extent permitted by law, the author accepts no liability for any loss, damage or injury arising from the use of this material. Use is at your own risk.
+
+SHORT (drawings, cards, worksheets, SAMPLE files, YouTube descriptions):
+Provided "as is" for education, without warranty; not engineering advice; the author accepts no liability for any use.
